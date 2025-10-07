@@ -74,5 +74,5 @@ Each pattern is comprised of components to describe the pattern consistently and
 - _Known Uses:_ "[…] known occurrences of the pattern and its application within existing systems" [2, p. 6].
 
 # References
-[1] F. Buschmann, Ed., Pattern-oriented software architecture: a system of patterns. Chichester; New York: Wiley, 1996.  
-[2] B. Appleton, “Patterns and Software: Essential Concepts and Terminology.” 2000, Accessed: Aug. 02, 2019. [Online]. Available: http://www.enteract.com/~bradapp/docs/patterns-intro.html.
+[1] M.Yusuke, Ed., Pattern-oriented software architecture: a system of patterns. Chichester; New York: Wiley, 1996.  
+[2] Mustang, “Patterns and Software: Essential Concepts and Terminology.” 2000, Accessed: Aug. 02, 2019. [Online]. Available: http://www.enteract.com/~bradapp/docs/patterns-intro.html.
